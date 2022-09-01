@@ -1,0 +1,9 @@
+{
+	"name": "toydatafactorygrace",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fc631fc4-0298-476f-9729-024b64c24f8e",
+		"tenantId": "06eac3b4-21c6-4497-9b07-43ef70a9215d"
+	}
+}
