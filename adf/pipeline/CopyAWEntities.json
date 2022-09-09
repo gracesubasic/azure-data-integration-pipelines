@@ -9,9 +9,10 @@
 				"userProperties": [],
 				"typeProperties": {
 					"items": {
-						"value": "@variable('Entities')",
+						"value": "@variables('Entities')",
 						"type": "Expression"
 					},
+					"isSequential": false,
 					"activities": [
 						{
 							"name": "Execute CopyAWEntity",
